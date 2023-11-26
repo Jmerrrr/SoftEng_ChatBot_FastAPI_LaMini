@@ -1,0 +1,11 @@
+torch==1.11.0 
+torchvision==0.12.0 
+torchaudio==0.11.0
+fastapi[all]
+transformers==4.30.2
+langchain==0.0.231
+sentence_transformers==2.2.2
+accelerate==0.20.3
+asyncio==3.4.3
+sse-starlette==1.6.1
+streamlit==1.24.0

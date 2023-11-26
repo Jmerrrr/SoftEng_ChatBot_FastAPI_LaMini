@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="/static/css/styles.css" />
+    <title>Sample Form</title>
+  </head>
+  <body>
+    <div class="chat">
+      <div class="prompt">
+        <form method="post">
+          <input type="text" name="prompt" value="Prompt Here" />
+          <input type="submit" />
+        </form>
+      </div>
+      <div class="answer">
+        <p>Here: {{ results }}</p>
+      </div>
+    </div>
+  </body>
+</html>

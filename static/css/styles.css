@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.chat {
+  display: flex;
+  justify-items: center;
+  align-items: center;
+  height: 250px;
+  width: 500px;
+  background-color: aqua;
+}
+.prompt {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.answer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
