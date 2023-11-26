@@ -22,8 +22,6 @@ def qa_llm(prompt: str):
 
     llm_pipe = HuggingFacePipeline(pipeline=pipe)
     res = llm_pipe(prompt)
-    # result = copy.deepcopy(res)
     print(res)
     return res
-    # return pipe(prompt)
 
