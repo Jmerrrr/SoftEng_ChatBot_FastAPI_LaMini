@@ -2,11 +2,11 @@
 In Vscode, open your terminal (CMD Terminal in vscode)
 
 First Create a Virtual Environment:  
-  &ensp python -m Venv_Caps_ChatBot1_1_FastAPI_Lamini  
-  &ensp cd Venv_Caps_ChatBot1_1_FastAPI_Lamini/Scripts  
-  &ensp activate  
-  &ensp cd ..  
-  &ensp cd ..  
+  &ensp; python -m Venv_Caps_ChatBot1_1_FastAPI_Lamini  
+  &ensp; cd Venv_Caps_ChatBot1_1_FastAPI_Lamini/Scripts  
+  &ensp; activate  
+  &ensp; cd ..  
+  &ensp; cd ..  
 then run 'pip install requirements.txt' (Without the quotes)  
 next clone the LLM Model:  
 # Note 3GB file size, walang download bar na nakalagay, antayin nyo lang.  
