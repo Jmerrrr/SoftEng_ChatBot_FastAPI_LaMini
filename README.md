@@ -1,5 +1,6 @@
 # SoftEng_ChatBot_FastAPI_LaMini
 In Vscode, open your terminal (CMD Terminal in vscode)
+
 First Create a Virtual Environment:
   python -m Venv_Caps_ChatBot1_1_FastAPI_Lamini
   cd Venv_Caps_ChatBot1_1_FastAPI_Lamini/Scripts
