@@ -9,3 +9,7 @@ accelerate==0.20.3
 asyncio==3.4.3
 sse-starlette==1.6.1
 streamlit==1.24.0
+requests
+einops
+accelerate
+bitsandbytes
