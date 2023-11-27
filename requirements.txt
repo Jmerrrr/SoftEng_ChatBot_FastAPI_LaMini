@@ -8,8 +8,7 @@ sentence_transformers==2.2.2
 accelerate==0.20.3
 asyncio==3.4.3
 sse-starlette==1.6.1
-streamlit==1.24.0
+chromadb==0.3.26
 requests
 einops
-accelerate
 bitsandbytes
