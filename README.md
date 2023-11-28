@@ -2,7 +2,7 @@
 In Vscode, open your terminal (CMD Terminal in vscode)
 
 First Create a Virtual Environment:  
-  &emsp; python -m Venv_Caps_ChatBot1_1_FastAPI_Lamini  
+  &emsp; python -m venv Venv_Caps_ChatBot1_1_FastAPI_Lamini  
   &emsp; cd Venv_Caps_ChatBot1_1_FastAPI_Lamini/Scripts  
   &emsp; activate  
   &emsp; cd ..  
