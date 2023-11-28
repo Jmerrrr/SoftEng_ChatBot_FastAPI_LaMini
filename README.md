@@ -8,7 +8,7 @@ First Create a Virtual Environment:
   &emsp; cd ..  
   &emsp; cd ..  
 
-then run 'pip install requirements.txt' (Without the quotes)  
+then run 'pip install -r requirements.txt' (Without the quotes)  
 
 next clone the LLM Model:  
 # Note 3GB file size, walang download bar na nakalagay, antayin nyo lang.  
